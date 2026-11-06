@@ -1,0 +1,2175 @@
+[
+  {
+    "year": 2005,
+    "title": "A practical approach to approximating diameter of point-set in low dimensions.",
+    "authors": "Kumar Gaurav Bijay and Antoine Vigneron.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Drawing planar bipartite graphs with small area.",
+    "authors": "Therese Biedl and Franz Brandenburg.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/11.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "The min-# problem, a hybrid error criterion for near linear time performance.",
+    "authors": "Lilian BUZER.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/12.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Proximity problems on line segments spanned by points.",
+    "authors": "Ovidiu Daescu, Jun Luo, and David Mount.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/13.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Lower bounds for expected-case planar point location.",
+    "authors": "Theocharis Malamatos.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/14.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Morphing polyhedra preserving face normals: A counterexample.",
+    "authors": "Therese Biedl, Anna Lubiw, and Michael Spriggs.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/15.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Closest segments.",
+    "authors": "Kathryn Duffy, Chris McAloney, Henk Meijer, and David Rappaport.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/16.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Output-sensitive algorithms for enumerating and counting simplices containing a given point in the plane.",
+    "authors": "Amr Elmasry and Khaled Elbassioni.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/17.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Space-efficient algorithms for klee's measure problem.",
+    "authors": "Eric Y. Chen and Timothy M. Chan.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/18.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Staying in the middle: Exact and approximate medians in r1 and r2 for moving points.",
+    "authors": "Pankaj Agarwal, Mark de Berg, Jie Gao, Leonidas Guibas, and Sariel Har-Peled.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/19.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Designing modern linkages to trace bezier curves.",
+    "authors": "James Factor.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Solving online feasibility problem in constant amortized time per update.",
+    "authors": "Lilian Buzer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/20.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2005,
+    "title": "Minimum-cost load-balancing partitions.",
+    "authors": "Paz Carmi and Matthew Katz.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/21.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Density or discrepancy: A vlsi designer's dilemma in hot spot analysis.",
+    "authors": "Subhashis Majumder and Bhargab B. Bhattacharya.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/22.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "On the pagenumber of bipartite orders.",
+    "authors": "Nejib Zaguia, Guy-Vincent Jourdan, and Mustafa Alhashem.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/23.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Reverse facility location problems.",
+    "authors": "Sergio Cabello, J. Miguel Díaz-Báñez, Stefan Langerman, Carlos Seara, and Inma Ventura.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/24.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Minimizing the total absolute gaussian curvature in a terrain is hard.",
+    "authors": "Maike Buchin and Joachim Giesen.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/25.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Flow complex: General structure and algorithm.",
+    "authors": "Kevin Buchin and Joachim Giesen.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/26.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Large -d simplices in the -dimensional cube.",
+    "authors": "Gill Barequet and Jonathan Naor.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/27.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Computational geometry on optical multi-trees (omult) computer system.",
+    "authors": "Rabiul Islam, Nahid Afroz, Subir Bandyopadhyay, and Bhabani Sinha.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/28.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Feasibility of the exact geometric computation paradigm for largest empty anchored cylinder computation in the plane.",
+    "authors": "Stefan Schirra.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/29.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Efficient algorithms for range queries in protein sequence analysis.",
+    "authors": "N. Madhusudhanan, Prosenjit Gupta, and Abhijit Mitra.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "A new approach for boundary recognition in geometric sensor networks.",
+    "authors": "S�ndor Fekete, Michael Kaufmann, Alexander Kr�ller, and Katharina Lehmann.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/31.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Dynamic well-separated pair decomposition made easy.",
+    "authors": "John Fischer and Sariel Har-Peled.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/32.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "The projection median of a set of points in .",
+    "authors": "Stephane Durocher and David Kirkpatrick.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/33.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Approximating radio maps.",
+    "authors": "Iris Ashkenazi, Boaz Ben-Moshe, and Jihad El-Sana.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/34.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Unfolding manhattan towers.",
+    "authors": "Mirela Damian, Robin Flatland, and Joseph O'Rourke.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/36.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Position-based routing on 3-d geometric graphs in mobile ad hoc networks.",
+    "authors": "George Kao, Thomas Fevens, and Jaroslav Opatrny.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/37.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Testing shortcuts to maintain simplicity in subdivision simplification.",
+    "authors": "Craig Falls, Yuanxin Liu, Jack Snoeyink, and Diane Souvaine.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/38.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Experiments on area compaction algorithms for orthogonal drawings.",
+    "authors": "Carla Binucci and Walter Didimo.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/39.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Finding a triangular mesh with a constant number of different edge lengths.",
+    "authors": "Shin ichi Tanigawa and Naoki Katoh.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/41.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "A fast algorithm for point labeling problem.",
+    "authors": "Sasanka Roy, Subhasis Bhattacharjee, Sandip Das, and Subhas Nandy.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/42.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Optimal convex partitions of point sets with few inner points.",
+    "authors": "Andreas Spillner.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/43.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Computing faces up to k dimensions of a minkowski sum of polytopes.",
+    "authors": "Christophe Weibel and Komei Fukuda.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/44.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2005,
+    "title": "Dynamic updates of succinct triangulations.",
+    "authors": "Luca Castelli Aleardi, Olivier Devillers, and Gilles Schaeffer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/45.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "The translation-scale-rotation diagram for point-containing placements of a convex polygon.",
+    "authors": "Gill Barequet and Yuval scharf.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/46.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Pricing of geometric transportation networks.",
+    "authors": "Jean Cardinal, Martine Labb�, Stefan Langerman, and Bel�n Palop.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/47.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Complexity of octagonal and rectangular cartograms.",
+    "authors": "Therese Biedl and Burkay Genc.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/48.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Searching for the center of an ellipse.",
+    "authors": "Michael Burr, Alexandra Lauric, and Katelyn Mann.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/49.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Matching edges and faces in polygonal partitions.",
+    "authors": "Oswin Aichholzer, Franz Aurenhammer, Paola Gonzalez-Nava, Thomas Hackl, Clemens Huemer, Ferran Hurtado, Hannes Krasser, Saurabh Ray, and Birgit Vogtenhuber.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/5.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Maximum independent set for intervals by divide-prune-and-conquer.",
+    "authors": "Jack Snoeyink.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/50.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Approximate orthogonal range search using patricia tries.",
+    "authors": "Bradford Nickerson and Qingxiu Shi.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/51.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Computing bitangents for ellipses.",
+    "authors": "Luc Habert.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/52.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Region counting distances and region counting circles.",
+    "authors": "Jean Cardinal, Sebastien Collette, and Stefan Langerman.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/53.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Cross-stitching using little thread.",
+    "authors": "Therese Biedl, Joseph Horton, and Alejandro Lopez-Ortiz.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/54.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "An experimental assessment of the 2d visibility complex.",
+    "authors": "Hazel Everett, Sylvain Lazard, Sylvain Petitjean, and Linqiao Zhang.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/55.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Bernstein based arithmetic featuring de casteljau.",
+    "authors": "Dominique Michelucci, Sebti Foufou, Loic Lamarque, and David Menegaux.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/58.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2005,
+    "title": "Nearest point query on 184m points in e3 with a uniform grid.",
+    "authors": "W Randolph Franklin.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/59.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "The complexity of domino tiling.",
+    "authors": "Therese Biedl.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/6.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Area-proportional drawings of intersecting families of simple closed curves.",
+    "authors": "Stirling Chow and Frank Ruskey.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/60.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Translating a star over a point set.",
+    "authors": "Prosenjit Bose and Jason Morrison.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/62.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "A vertex-face assignment for plane graphs.",
+    "authors": "Csaba Toth and Diane Souvaine.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/63.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Computing the boundary of a class of labeled-leaf bsp solids.",
+    "authors": "Sherif Ghali and Chris Smith.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/64.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Maintaining visibility information of planar point sets with a moving viewpoint.",
+    "authors": "Olivier Devillers, Vida Dujmovic, Hazel Everett, Samuel Hornus, Sue Whitesides, and Steve Wismath.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/65.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Faster approximation algorithms for scheduling tasks with a choice of start times.",
+    "authors": "Daya Gaur and Ramesh Krishnamurti.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/66.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2005,
+    "title": "Compactly encoding and decoding the connectivity of a plane graph in linear time.",
+    "authors": "Raquel Viana.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/67.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Approximating the piercing number for unit-height rectangles.",
+    "authors": "Timothy Chan and Abdullah-Al Mahmood.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/68.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Approximation algorithms for maximum cliques in 3d unit-disk graphs.",
+    "authors": "Peyman Afshani and Timothy Chan.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/69.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "New results on pseudo-triangulations with low vertex degree.",
+    "authors": "Andre Schulz.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/7.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "An algorithm for the rectilinear minimum link-distance problem.",
+    "authors": "Robert Scot Drysdale, Clifford Stein, and David P. Wagner.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/70.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "incomplete_extraction"
+  },
+  {
+    "year": 2005,
+    "title": "k-link rectilinear shortest paths among rectilinear obstacles in the plane.",
+    "authors": "Valentin Polishchuk and Joseph Mitchell.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/71.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Finding and maintaining rigid components.",
+    "authors": "Audrey Lee, Ileana Streinu, and Louis Theran.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/72.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Collection depot location problem in the plane.",
+    "authors": "Robert Benkoczi, Binay Bhattacharya, Sandip Das, and Jeff Sember.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/73.pdf"
+    ],
+    "optimization_terms": [
+      "parametric-search"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2005,
+    "title": "Cutting out polygons.",
+    "authors": "Ramaswamy Chandrasekaran, Ovidiu Daescu, and Jun Luo.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/74.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Small weak epsilon nets.",
+    "authors": "Boris Aronov, Franz Aurenhammer, Ferran Hurtado, Stefan Langerman, David Rappaport, Shakhar Smorodinsky, and Carlos Seara.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/75.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Farthest neighbor voronoi diagram in the presence of rectangular obstacles.",
+    "authors": "Boaz Ben-Moshe, Binay Bhattacharya, and Qiaosheng Shi.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/76.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Observations and computations in sylvester-gallai theory.",
+    "authors": "Jonathan Lenchner and Herve Bronnimann.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/77.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "incomplete_extraction"
+  },
+  {
+    "year": 2005,
+    "title": "Touring convex bodies - a conic programming solution.",
+    "authors": "Valentin Polishchuk and Joseph Mitchell.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/78.pdf"
+    ],
+    "optimization_terms": [
+      "convex-optimization",
+      "interior-point",
+      "second-order-cone",
+      "semidefinite-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2005,
+    "title": "Dynamic ham-sandwich cuts of convex polygons in the plane.",
+    "authors": "Timothy Abbott, Erik D. Demaine, Martin L. Demaine, Daniel Kane, Stefan Langerman, Jelani Nelson, and Vincent Yeung.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/79.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Anisotropic diagrams: Labelle shewchuk approach revisited.",
+    "authors": "Jean-Daniel Boissonnat, Camille Wormser, and Mariette Yvinec.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/8.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Computing rigid components of pseudo-triangulation mechanisms in linear time.",
+    "authors": "Jack Snoeyink and Ileana Streinu.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/80.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Boundary refinement in delaunay mesh generation using arbitrarily ordered vertex insertion.",
+    "authors": "Demian Nave and Nikos Chrisochoides.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/81.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "Computing the widest empty boomerang.",
+    "authors": "Boaz Ben-Moshe, Binay Bhattacharya, and Qiaosheng Shi.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/82.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "On the computation and chromatic number of colored domino tilings.",
+    "authors": "Chris Worman and Boting Yang.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/83.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2005,
+    "title": "The distance geometry of deep rhythms and scales.",
+    "authors": "Erik D. Demaine, Francisco Gomez-Martin, Henk Meijer, David Rappaport, Perouz Taslakian, Godfried T. Toussaint, Terry Winograd, and David R. Woodk.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2005/84.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Paul Erdos memorial lecture (linkage folding: From erdos to proteins).",
+    "authors": "Erick D. Demaine.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Shortest descending paths through given faces.",
+    "authors": "Mustaq Ahmed and Anna Lubiw.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg10.pdf"
+    ],
+    "optimization_terms": [
+      "convex-optimization",
+      "second-order-cone"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2006,
+    "title": "Realization of degree 10 minimum spanning trees in 3-space.",
+    "authors": "James King.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg11.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Predicates for line transversals in 3d.",
+    "authors": "William Lenhart Jeremy Redburn Hazel Everett, Sylvain Lazard and Linqiao Zhang.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg12.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Small weak epsilon-nets in three dimensions.",
+    "authors": "Maryam Babazadeh and Hamid Zarrabi-Zadeh.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg13.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Two-guard art gallery problem.",
+    "authors": "Junqiang Zhou and Simeon Ntafos.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg14.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "incomplete_extraction"
+  },
+  {
+    "year": 2006,
+    "title": "An optimal solution to room search problem.",
+    "authors": "Qiaosheng Shi Binay Bhattacharya, John Z. Zhang and Tsunehiko Kameda.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg15.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "On computing shortest external watchman routes for convex polygons.",
+    "authors": "Rafa Absar and Sue Whitesides.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg16.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Hamiltonian cycles in triangular grids.",
+    "authors": "Esther Arkin Valentin Polishchuk and Joseph Mitchell.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg17.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Tight bounds for point recolouring.",
+    "authors": "Yurai Nú nez and David Rappaport.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg18.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2006,
+    "title": "2d triangulation representation using stable catalogs.",
+    "authors": "Luca Castelli Aleardi Abdelkrim Mebarki and Olivier Devillers.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg19.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "The complexity of a pop-up book.",
+    "authors": "Ryuhei Uehara and Sachio Teramoto.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Open problems (open problems from cccg 2005).",
+    "authors": "Erick D. Demaine and Joseph O'Rourke.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg20.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Polygon reconstruction from line cross-sections.",
+    "authors": "Craig Gotsman Gill Barequet and Avishay Sidlesky.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg21.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Computing the tool path of an externally monotone polygon in linear time.",
+    "authors": "David Bremner Prosenjit Bose and Diane L. Souvaine.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg22.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Optimal polygon placement.",
+    "authors": "Prosenjit Bose and Jason Morrison.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg23.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "On the maximum span of fixed-angle chains.",
+    "authors": "Nadia Benbernou and Joseph O'Rourke.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg24.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Local overlaps in special unfoldings of convex polyhedra.",
+    "authors": "Brendan Lucier.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg25.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Spanning trees across axis-parallel segments.",
+    "authors": "Csaba Tóth and Michael Hoffmann.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg26.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Rotationally monotone polygons.",
+    "authors": "Michiel Smid Prosenjit Bose, Pat Morin and Stefanie Wuhrer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg27.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Polygons flip finitely: Flaws and a fix.",
+    "authors": "Joseph O'Rourke Erik D. Demaine, Blaise Gassend and Godfried T. Toussaint.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg28.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Characterization of polygons searchable by a boundary 1-searcher.",
+    "authors": "John Z. Zhang Tsunehiko Kameda and Masafumi Yamashita.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg29.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "A study of conway's thrackle conjecture.",
+    "authors": "Karen Daniels Wei Li and Konstantin Rybnikov.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Routing with guaranteed delivery on virtual coordinates.",
+    "authors": "Craig Gotsman Mirela Ben-Chen and Steven Gortler.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg30.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Geometric separator for -dimensional ball graphs.",
+    "authors": "Kebin Wang and Shang-Hua Teng.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg32.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Invited lecture (on approximate range searching - or - get in shape; round is a good choice).",
+    "authors": "David Mount.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg33.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "On the smallest enclosing information disk.",
+    "authors": "Frank Nielsen and Richard Nock.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg34.pdf"
+    ],
+    "optimization_terms": [
+      "convex-optimization",
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2006,
+    "title": "Removing outliers to minimize area and perimeter.",
+    "authors": "Pat Morin Rossen Atanassov and Stefanie Wuhrer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg35.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "A simple streaming algorithm for minimum enclosing balls.",
+    "authors": "Hamid Zarrabi-Zadeh and Timothy Chan.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg36.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2006,
+    "title": "On bipartite matching under the rms distance.",
+    "authors": "Jeff M. Phillips and Pankaj K. Agarwal.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg37.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "The pkd-tree for orthogonal -dimensional range search.",
+    "authors": "Bradford Nickerson and Qingxiu Shi.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg38.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Range-aggregate proximity detection for design rule checking in vlsi layouts.",
+    "authors": "R. Sharathkumar and Prosenjit Gupta.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg39.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Curves in the sand: Algorithmic drawing.",
+    "authors": "Martin L. Demaine Vida Dujmovic Dania El-Khechen Robin Flatland John Iacono Stefan Langerman Henk Meijer Suneeta Ramaswami Diane L. Souvaine Perouz Taslakian Mirela Damian, Erik D. Demaine and Godfried T. Toussaint.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg4.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "K-nearest neighbor search using the pyramid technique.",
+    "authors": "Bradford Nickerson and Qingxiu Shi.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg40.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "A linear space data structure for orthogonal range reporting and emptiness queries.",
+    "authors": "Yakov Nekrich.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg41.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "incomplete_extraction"
+  },
+  {
+    "year": 2006,
+    "title": "Invited lecture (predicting the flexibility and rigidity of proteins: Geometry, combinatorics, conjectures, and algorithms).",
+    "authors": "Walter Whiteley.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg42.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Computational euclid.",
+    "authors": "Maarten van Emden and Belaid Moa.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg43.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Another paradigm for geometric constraints solving.",
+    "authors": "Loic Lamarque Dominique Michelucci, Sebti Foufou and David Menegaux.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg44.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Partitioning a regular -gon into convex congruent pieces is impossible, for sufficiently large .",
+    "authors": "Thomas Fevens Dania El-Khechen and John Iacono.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg45.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Computing depth contours with graphics hardware.",
+    "authors": "Craig Gotsman and Ian Fischer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg46.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Minimizing the number of arcs linking a permutation of points in the plane.",
+    "authors": "Chris Gray Stephane Durocher and James King.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg47.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "An algorithm for the all-farthest-segments problem for a planar set of points.",
+    "authors": "Asish Mukhopadhyay and R.L. Scot Drysdale.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg48.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "An improved approximation factor for the unit disk covering problem.",
+    "authors": "Sada Narayanappa and Petr Vojtechovsky.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg5.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2006,
+    "title": "Experimental comparison of the cost of approximate and exact convex hull computation in the plane.",
+    "authors": "Jan Tusch and Stefan Schirra.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg6.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "(approximate) conic nearest neighbors and the induced voronoi diagram.",
+    "authors": "Domagoj Matijevic Stefan Funke, Theocharis Malamatos and Nicola Wolpert.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg7.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "On planar path transformation.",
+    "authors": "Selim G. Akl Md. Kamrul Islam and Henk Meijer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg8.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2006,
+    "title": "Bounded-curvature path normalization.",
+    "authors": "Jonathan Backer and David Kirkpatrick.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2006/cccg9.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Morphing planar graph drawings.",
+    "authors": "Anna Lubiw.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/001.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Note on the pair-crossing number and the odd-crossing number.",
+    "authors": "Géza Tóth.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/002.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "The harmony of spheres.",
+    "authors": "Otfried Cheong.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/003.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Capturing crossings: Convex hulls of segment and plane intersections.",
+    "authors": "Esther M. Arkin, Joseph S. B. Mitchell, and Jack Snoeyink.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01a1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Disjoint segments have convex partitions with 2-edge connected dual graphs.",
+    "authors": "Nadia Benbernou, Erik D. Demaine, Martin L. Demaine, Michael Hoffmann, Mashhood Ishaque, Diane L. Souvaine, and Csaba D. Tóth.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01a2.pdf",
+      "https://cccg.ca/proceedings/2007/01a2full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Finding segments and triangles spanned by points in r.",
+    "authors": "Steven Bitner and Ovidiu Daescu.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01a3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "On the fewest nets problem for convex polyhedra.",
+    "authors": "Val Pinciu.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01a4.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Contraction and expansion of convex sets.",
+    "authors": "Michael Langberg and Leonard J. Schulman.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01a5.pdf",
+      "https://cccg.ca/proceedings/2007/01a5full.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2007,
+    "title": "Improved upper bounds on the reflexivity of point sets.",
+    "authors": "Eyal Ackerman, Oswin Aichholzer, and Balázs Keszegh.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01b1.pdf",
+      "https://cccg.ca/proceedings/2007/01b1full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Computing a planar widest empty alpha-siphon in o(n) time.",
+    "authors": "Boaz Ben-Moshe, Binay K. Bhattacharya, Sandip Das, Daya Ram Gaur, and Qiaosheng Shi.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01b2.pdf",
+      "https://cccg.ca/proceedings/2007/01b2full.pdf"
+    ],
+    "optimization_terms": [
+      "parametric-search"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2007,
+    "title": "On the number of empty pseudo-triangles in point sets.",
+    "authors": "Marc J. van Kreveld and Bettina Speckmann.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01b3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Experimental evaluation of structural filtering as a tool for exact and efficient geometric computing.",
+    "authors": "Stefan Näher and Martin Taphorn.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01b4.pdf",
+      "https://cccg.ca/proceedings/2007/01b4full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "On the design and performance of reliable geometric predicates using error-free transformations and exact sign of sum algorithms.",
+    "authors": "Marc Mörig and Stefan Schirra.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/01b5.pdf",
+      "https://cccg.ca/proceedings/2007/01b5full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Optimal point set partitioning using rigid motion star placement.",
+    "authors": "Prosenjit Bose and Jason Morrison.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/03a1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Fast additive constant approximation algorithms for the safe deposit boxes problem with two and three currencies.",
+    "authors": "Boaz Ben-Moshe and Yefim Dinitz.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/03a2.pdf",
+      "https://cccg.ca/proceedings/2007/03a2full.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming",
+      "parametric-search"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2007,
+    "title": "An improved bound for the affine sylvester problem.",
+    "authors": "Jonathan Lenchner.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/03a3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "The ordinary line problem revisited.",
+    "authors": "Asish Mukhopadhyay and Eugene Greene.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/03a4.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Reconstructing submanifolds of euclidean space.",
+    "authors": "David Letscher.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/03b1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "On unfolding trees and polygons on various lattices.",
+    "authors": "Sheung-Hung Poon.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/03b2.pdf",
+      "https://cccg.ca/proceedings/2007/03b2full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Spiralling and folding: The topological view.",
+    "authors": "Marcus Schaefer, Eric Sedgwick, and Daniel Stefankovic.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/03b3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Unfolding polyhedra via cut-tree truncation.",
+    "authors": "Alex Benton and Joseph O'Rourke.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/03b4.pdf",
+      "https://cccg.ca/proceedings/2007/03b4full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Minimum-sum dipolar spanning tree for points in r.",
+    "authors": "Steven Bitner and Ovidiu Daescu.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/04a1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Hamilton circuits in hexagonal grid graphs.",
+    "authors": "Kamrul Islam, Henk Meijer, Yurai Núñez Rodríguez, David Rappaport, and Henry Xiao.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/04a2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Realizations of hexagonal graph representations.",
+    "authors": "Therese C. Biedl.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/04a3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Conflict-free coloring of points on a line with respect to a set of intervals.",
+    "authors": "Matthew J. Katz, Nissan Lev-Tov, and Gila Morgenstern.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/04b1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Weak conflict-free colorings of point sets and simple regions.",
+    "authors": "Balázs Keszegh.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/04b2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "A lower bound on the area of a 3-coloured disc packing.",
+    "authors": "Peter Brass, Ferran Hurtado, Benjamin J. Lafreniere, and Anna Lubiw.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/04b3.pdf",
+      "https://cccg.ca/proceedings/2007/04b3full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Medial axis approximation of planar shapes from union of balls: A simpler and more robust algorithm.",
+    "authors": "Joachim Giesen, Balint Miklos, and Mark Pauly.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05a1.pdf",
+      "https://cccg.ca/proceedings/2007/05a1full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Simplification of scalar data via monotone-light factorizations.",
+    "authors": "Martin Brooks and Liam Watson.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05a2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "The slider-pinning problem.",
+    "authors": "Audrey Lee, Ileana Streinu, and Louis Theran.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05a3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Approximating k-hop minimum spanning trees in euclidean metrics.",
+    "authors": "Sören Laue and Domagoj Matijevic.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05a4.pdf",
+      "https://cccg.ca/proceedings/2007/05a4full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Terminal steiner tree with bounded edge length.",
+    "authors": "Zhiyong Lin.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05a5.pdf",
+      "https://cccg.ca/proceedings/2007/05a5full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Image compression terrain simplification.",
+    "authors": "Boaz Ben-Moshe, Liad Serruya, and Ariel Shamir.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05b1.pdf",
+      "https://cccg.ca/proceedings/2007/05b1full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Distance preserving terrain simplification - an experimental study.",
+    "authors": "Boaz Ben-Moshe, Matthew J. Katz, and Igor Zaslavsky.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05b2.pdf",
+      "https://cccg.ca/proceedings/2007/05b2full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Terrain representation using right-triangulated irregular networks.",
+    "authors": "Suddha Basu and Jack Snoeyink.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05b3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Vertex pops and popturns.",
+    "authors": "Greg Aloupis, Brad Ballinger, Prosenjit Bose, Mirela Damian, Erik D. Demaine, Martin L. Demaine, Robin Y. Flatland, Ferran Hurtado, Stefan Langerman, Joseph O'Rourke, Perouz Taslakian, and Godfried T. Toussaint.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05b4.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "On rolling cube puzzles.",
+    "authors": "Kevin Buchin, Maike Buchin, Erik D. Demaine, Martin L. Demaine, Dania El-Khechen, Sándor P. Fekete, Christian Knauer, André Schulz, and Perouz Taslakian.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/05b5.pdf",
+      "https://cccg.ca/proceedings/2007/05b5full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Efficient snap rounding with integer arithmetic.",
+    "authors": "Binay K. Bhattacharya and Jeff Sember.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/07a1.pdf",
+      "https://cccg.ca/proceedings/2007/07a1full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Extending the power of snap rounding variants.",
+    "authors": "Eli Packer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/07a2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Cache-oblivious output-sensitive two-dimensional convex hull.",
+    "authors": "Peyman Afshani and Arash Farzan.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/07a3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Efficient kinetic data structures for maxcut.",
+    "authors": "Artur Czumaj, Gereon Frahling, and Christian Sohler.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/07a4.pdf"
+    ],
+    "optimization_terms": [
+      "semidefinite-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2007,
+    "title": "Towards a definition of higher order constrained delaunay triangulations.",
+    "authors": "Rodrigo I. Silveira and Marc J. van Kreveld.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/07b1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Vector weighted anisotropic voronoi diagrams and delaunay traingulations.",
+    "authors": "David Letscher.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/07b2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Covering points by isothetic unit squares.",
+    "authors": "Priya Ranjan Sinha Mahapatra, Partha P. Goswami, and Sandip Das.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/07b3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "A disk-covering problem with application in optical interferometry.",
+    "authors": "Trung Nguyen, Jean-Daniel Boissonnat, Frédéric Falzon, and Christian Knauer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/07b4.pdf",
+      "https://cccg.ca/proceedings/2007/07b4full.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2007,
+    "title": "Approximations of geodesic distances for incomplete triangular manifolds.",
+    "authors": "Zouhour Ben Azouz, Prosenjit Bose, Chang Shu, and Stefanie Wuhrer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/08a2.pdf",
+      "https://cccg.ca/proceedings/2007/08a2full.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2007,
+    "title": "Linear-space algorithms for distance preserving embedding.",
+    "authors": "Tetsuo Asano, Prosenjit Bose, Paz Carmi, Anil Maheshwari, Chang Shu, Michiel H. M. Smid, and Stefanie Wuhrer.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/08a3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Approximate shortest descent path on a terrain.",
+    "authors": "Sasanka Roy, Sachin Lodha, Sandip Das, and Anil Maheshwari.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/08b1.pdf",
+      "https://cccg.ca/proceedings/2007/08b1full.pdf"
+    ],
+    "optimization_terms": [
+      "convex-optimization"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2007,
+    "title": "A note on drawing direction-constrained paths in 3d.",
+    "authors": "Ethan Kim, Sue Whitesides, and Giuseppe Liotta.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/08b2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Optimistic and pessimistic shortest paths on uncertain terrains.",
+    "authors": "Yury Kholondyrev and William Evans.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/08b3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Triangulations loosing bundles and weight.",
+    "authors": "Cem Boyaci, Hale Erten, and Alper Üngör.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09a1.pdf",
+      "https://cccg.ca/proceedings/2007/09a1full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Computing acute and non-obtuse triangulations.",
+    "authors": "Hale Erten and Alper Üngör.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09a2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "On (pointed) minimum weight pseudo-triangulations.",
+    "authors": "Oswin Aichholzer, Franz Aurenhammer, Thomas Hackl, and Bettina Speckmann.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09a3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Largest subsets of triangles in a triangulation.",
+    "authors": "Boris Aronov, Marc J. van Kreveld, Maarten Löffler, and Rodrigo I. Silveira.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09a4.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Restricted edge contractions in triangulations of the sphere with boundary.",
+    "authors": "Masaki Moriguchi and Kokichi Sugihara.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09a5.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Improved layouts of the multigrid network.",
+    "authors": "Shabnam Aziza and Therese C. Biedl.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09b1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Straight-line drawings of outerplanar graphs in o(dn log n) area.",
+    "authors": "Fabrizio Frati.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09b2.pdf",
+      "https://cccg.ca/proceedings/2007/09b2full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "On bus graph realizability.",
+    "authors": "Anil Ada, Melanie Coggan, Paul Di Marco, Alain Doyon, Liam Flookes, Samuli Heilala, Ethan Kim, Jonathan Li On Wing, Louis-Francois Preville-Ratelle, Sue Whitesides, and Nuo Yu.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09b3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Homothetic triangle contact representations of planar graphs.",
+    "authors": "Melanie Badent, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Stefan Felsner, Francesco Giordano, Jan Kratochvíl, Pietro Palladino, Maurizio Patrignani, and Francesco Trotta.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09b4.pdf",
+      "https://cccg.ca/proceedings/2007/09b4full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Pointed drawings of planar graphs.",
+    "authors": "Oswin Aichholzer, Günter Rote, André Schulz, and Birgit Vogtenhuber.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/09b5.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Generalized watchman route problem with discrete view cost.",
+    "authors": "Pengpeng Wang, Ramesh Krishnamurti, and Kamal Gupta.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/11a1.pdf",
+      "https://cccg.ca/proceedings/2007/11a1full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Optimal schedules for 2-guard room search.",
+    "authors": "Stephen Bahun and Anna Lubiw.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/11a2.pdf",
+      "https://cccg.ca/proceedings/2007/11a2full.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Efficient visibility maintenance of a moving segment observer inside a simple polygon.",
+    "authors": "AmirAli Khosravi, Alireza Zarei, and Mohammad Ghodsi.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/11a3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Approximation algorithms for the minimum-length corridor and related problems.",
+    "authors": "Arturo Gonzalez-Gutierrez and Teofilo F. Gonzalez.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/11b1.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "A general and efficient representation for multiresolution meshes: Application to quad/triangle subdivision.",
+    "authors": "Pierre Kraemer, David Cazier, and Dominique Bechmann.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/11b2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Practical c reparametrization of piecewise rational bézier curves.",
+    "authors": "Roman Rolinsky and François Dupret.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/11b3.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "On a geometric approach to the segment sum problem and its generalization.",
+    "authors": "Asish Mukhopadhyay and Eugene Greene.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/12a1.pdf",
+      "https://cccg.ca/proceedings/2007/12a1full.pdf"
+    ],
+    "optimization_terms": [
+      "parametric-search"
+    ],
+    "status": "candidate_unreviewed"
+  },
+  {
+    "year": 2007,
+    "title": "Finding intersections of bichromatic segments defined by points.",
+    "authors": "Amr Elmasry and Kazuhisa Makino.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/12a2.pdf"
+    ],
+    "optimization_terms": [],
+    "status": "no_keyword_hit"
+  },
+  {
+    "year": 2007,
+    "title": "Fast computation of smallest enclosing circle with center on a query line segment.",
+    "authors": "Arindam Karmakar, Sasanka Roy, and Sandip Das.",
+    "source_type": "paper",
+    "urls": [
+      "https://cccg.ca/proceedings/2007/12a3.pdf"
+    ],
+    "optimization_terms": [
+      "linear-programming"
+    ],
+    "status": "candidate_unreviewed"
+  }
+]

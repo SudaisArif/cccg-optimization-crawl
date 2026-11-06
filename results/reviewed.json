@@ -1,0 +1,48 @@
+{
+  "reviewed_on": "2026-11-06",
+  "review_method": "Read the source formulation and check applicability of the cited replacement theorem. Novelty is not certified.",
+  "records": [
+    {
+      "url": "https://cccg.ca/proceedings/2006/cccg10.pdf",
+      "title": "Shortest Descending Paths through Given Faces",
+      "status": "derived_bound_checked",
+      "scope": "A prescribed face sequence crossing k edges; arithmetic/oracle model.",
+      "old_bound": "O(k^3.5 log(1/epsilon))",
+      "updated_bound": "Expected O~(k log(R/r) log(R/(r delta))) for additive delta ||c||_2 R; nearly linear when radius/accuracy scale factors are controlled.",
+      "reason": "Duplicate segment endpoint variables into constant-dimensional convex blocks and glue neighbors. The generalized dual graph is a path. Forced heights can be eliminated in linear time.",
+      "replacement_source": "https://arxiv.org/abs/2011.05365",
+      "replacement_theorem": "Theorem 1.3, 2023 full version",
+      "details": "docs/descending-path-bound.md"
+    },
+    {
+      "url": "https://cccg.ca/proceedings/2005/78.pdf",
+      "title": "Touring Convex Bodies - A Conic Programming Solution",
+      "status": "derived_bound_checked_for_restricted_family",
+      "scope": "The base ordered tour through k line segments in fixed dimension, without optional global constraints.",
+      "old_bound": "O(k^3.5 log(1/epsilon)) in the line-segment specialization",
+      "updated_bound": "Expected O~(k log(R/r) log(R/(r delta))) for additive delta ||c||_2 R.",
+      "reason": "Parameterize each segment by one scalar. The same local norm blocks and adjacent equality constraints form a path; there are no height inequalities. Choose midpoint parameters and positive epigraph slack.",
+      "replacement_source": "https://arxiv.org/abs/2011.05365",
+      "replacement_theorem": "Theorem 1.3, 2023 full version",
+      "limitations": "Does not claim this bound for arbitrary dimension, unbounded description complexity, nonconvex regions, or optional constraints coupling nonadjacent tour vertices. Conditioning is retained."
+    },
+    {
+      "url": "https://cccg.ca/proceedings/2006/cccg36.pdf",
+      "title": "A Simple Streaming Algorithm for Minimum Enclosing Balls",
+      "status": "rejected_as_direct_solver_replacement",
+      "reason": "The linear-programming hit is in a reference. The main algorithm is a streaming geometric approximation; swapping a dense optimizer does not automatically improve its bound."
+    },
+    {
+      "url": "https://cccg.ca/proceedings/2007/07a4.pdf",
+      "title": "Efficient Kinetic Data Structures for MaxCut",
+      "status": "rejected_as_direct_solver_replacement",
+      "reason": "The semidefinite-programming hit is in a cited paper title. No updated kinetic-data-structure bound is established by this scan."
+    },
+    {
+      "url": "https://cccg.ca/proceedings/2007/08b1full.pdf",
+      "title": "Approximate Shortest Descent Path on a Terrain",
+      "status": "rejected_as_direct_solver_replacement",
+      "reason": "The introduction cites the fixed-face convex-optimization result, but its own algorithms use Steiner-point discretization and graph search. The new fixed-face bound does not automatically replace its global terrain bound."
+    }
+  ]
+}

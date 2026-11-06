@@ -1,0 +1,403 @@
+{
+  "schemaVersion": "1.4",
+  "catalogId": "cccg-optimization-survey",
+  "title": "CCCG optimization-bound review leads",
+  "contentUpdatedAt": "2026-11-06T16:37:06Z",
+  "generatedAt": "2026-11-06T16:37:06Z",
+  "problems": [
+    {
+      "recordId": "lit:cccg-optimization-survey:2005-a81c85581398",
+      "problem": "Check whether modern optimization improves the bound in: Solving online feasibility problem in constant amortized time per update.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Solving online feasibility problem in constant amortized time per update.",
+        "authors": "Lilian Buzer.",
+        "url": "https://cccg.ca/proceedings/2005/20.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2005/20.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2005-ba4e276246d7",
+      "problem": "Check whether modern optimization improves the bound in: Computing faces up to k dimensions of a minkowski sum of polytopes.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Computing faces up to k dimensions of a minkowski sum of polytopes.",
+        "authors": "Christophe Weibel and Komei Fukuda.",
+        "url": "https://cccg.ca/proceedings/2005/44.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2005/44.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2005-1bf3fec79a74",
+      "problem": "Check whether modern optimization improves the bound in: Bernstein based arithmetic featuring de casteljau.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Bernstein based arithmetic featuring de casteljau.",
+        "authors": "Dominique Michelucci, Sebti Foufou, Loic Lamarque, and David Menegaux.",
+        "url": "https://cccg.ca/proceedings/2005/58.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2005/58.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2005-f81c9a14b582",
+      "problem": "Check whether modern optimization improves the bound in: Faster approximation algorithms for scheduling tasks with a choice of start times.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Faster approximation algorithms for scheduling tasks with a choice of start times.",
+        "authors": "Daya Gaur and Ramesh Krishnamurti.",
+        "url": "https://cccg.ca/proceedings/2005/66.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2005/66.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2005-6d9ebe781337",
+      "problem": "Check whether modern optimization improves the bound in: Collection depot location problem in the plane.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Collection depot location problem in the plane.",
+        "authors": "Robert Benkoczi, Binay Bhattacharya, Sandip Das, and Jeff Sember.",
+        "url": "https://cccg.ca/proceedings/2005/73.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2005/73.pdf"
+      ],
+      "tags": [
+        "parametric-search"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2005-a256fba3241b",
+      "problem": "Check whether modern optimization improves the bound in: Touring convex bodies - a conic programming solution.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Touring convex bodies - a conic programming solution.",
+        "authors": "Valentin Polishchuk and Joseph Mitchell.",
+        "url": "https://cccg.ca/proceedings/2005/78.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2005/78.pdf"
+      ],
+      "tags": [
+        "convex-optimization",
+        "interior-point",
+        "second-order-cone",
+        "semidefinite-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2006-856acf6c6ae8",
+      "problem": "Check whether modern optimization improves the bound in: Shortest descending paths through given faces.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Shortest descending paths through given faces.",
+        "authors": "Mustaq Ahmed and Anna Lubiw.",
+        "url": "https://cccg.ca/proceedings/2006/cccg10.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2006/cccg10.pdf"
+      ],
+      "tags": [
+        "convex-optimization",
+        "second-order-cone"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2006-c9540bf70b7a",
+      "problem": "Check whether modern optimization improves the bound in: Tight bounds for point recolouring.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Tight bounds for point recolouring.",
+        "authors": "Yurai Nú nez and David Rappaport.",
+        "url": "https://cccg.ca/proceedings/2006/cccg18.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2006/cccg18.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2006-e0ec25cb6816",
+      "problem": "Check whether modern optimization improves the bound in: On the smallest enclosing information disk.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "On the smallest enclosing information disk.",
+        "authors": "Frank Nielsen and Richard Nock.",
+        "url": "https://cccg.ca/proceedings/2006/cccg34.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2006/cccg34.pdf"
+      ],
+      "tags": [
+        "convex-optimization",
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2006-87df5fdf01a6",
+      "problem": "Check whether modern optimization improves the bound in: A simple streaming algorithm for minimum enclosing balls.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "A simple streaming algorithm for minimum enclosing balls.",
+        "authors": "Hamid Zarrabi-Zadeh and Timothy Chan.",
+        "url": "https://cccg.ca/proceedings/2006/cccg36.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2006/cccg36.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2006-00b66120bab4",
+      "problem": "Check whether modern optimization improves the bound in: An improved approximation factor for the unit disk covering problem.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "An improved approximation factor for the unit disk covering problem.",
+        "authors": "Sada Narayanappa and Petr Vojtechovsky.",
+        "url": "https://cccg.ca/proceedings/2006/cccg5.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2006/cccg5.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2007-9826b4cfd35a",
+      "problem": "Check whether modern optimization improves the bound in: Contraction and expansion of convex sets.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Contraction and expansion of convex sets.",
+        "authors": "Michael Langberg and Leonard J. Schulman.",
+        "url": "https://cccg.ca/proceedings/2007/01a5.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2007/01a5.pdf",
+        "https://cccg.ca/proceedings/2007/01a5full.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2007-387dfd8c12de",
+      "problem": "Check whether modern optimization improves the bound in: Computing a planar widest empty alpha-siphon in o(n) time.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Computing a planar widest empty alpha-siphon in o(n) time.",
+        "authors": "Boaz Ben-Moshe, Binay K. Bhattacharya, Sandip Das, Daya Ram Gaur, and Qiaosheng Shi.",
+        "url": "https://cccg.ca/proceedings/2007/01b2.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2007/01b2.pdf",
+        "https://cccg.ca/proceedings/2007/01b2full.pdf"
+      ],
+      "tags": [
+        "parametric-search"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2007-fa9d369204f0",
+      "problem": "Check whether modern optimization improves the bound in: Fast additive constant approximation algorithms for the safe deposit boxes problem with two and three currencies.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Fast additive constant approximation algorithms for the safe deposit boxes problem with two and three currencies.",
+        "authors": "Boaz Ben-Moshe and Yefim Dinitz.",
+        "url": "https://cccg.ca/proceedings/2007/03a2.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2007/03a2.pdf",
+        "https://cccg.ca/proceedings/2007/03a2full.pdf"
+      ],
+      "tags": [
+        "linear-programming",
+        "parametric-search"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2007-4661ac53140a",
+      "problem": "Check whether modern optimization improves the bound in: Efficient kinetic data structures for maxcut.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Efficient kinetic data structures for maxcut.",
+        "authors": "Artur Czumaj, Gereon Frahling, and Christian Sohler.",
+        "url": "https://cccg.ca/proceedings/2007/07a4.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2007/07a4.pdf"
+      ],
+      "tags": [
+        "semidefinite-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2007-fda48f566458",
+      "problem": "Check whether modern optimization improves the bound in: A disk-covering problem with application in optical interferometry.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "A disk-covering problem with application in optical interferometry.",
+        "authors": "Trung Nguyen, Jean-Daniel Boissonnat, Frédéric Falzon, and Christian Knauer.",
+        "url": "https://cccg.ca/proceedings/2007/07b4.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2007/07b4.pdf",
+        "https://cccg.ca/proceedings/2007/07b4full.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2007-9e9aa76684e5",
+      "problem": "Check whether modern optimization improves the bound in: Approximations of geodesic distances for incomplete triangular manifolds.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Approximations of geodesic distances for incomplete triangular manifolds.",
+        "authors": "Zouhour Ben Azouz, Prosenjit Bose, Chang Shu, and Stefanie Wuhrer.",
+        "url": "https://cccg.ca/proceedings/2007/08a2.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2007/08a2.pdf",
+        "https://cccg.ca/proceedings/2007/08a2full.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2007-e5126bac82dc",
+      "problem": "Check whether modern optimization improves the bound in: Approximate shortest descent path on a terrain.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Approximate shortest descent path on a terrain.",
+        "authors": "Sasanka Roy, Sachin Lodha, Sandip Das, and Anil Maheshwari.",
+        "url": "https://cccg.ca/proceedings/2007/08b1.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2007/08b1.pdf",
+        "https://cccg.ca/proceedings/2007/08b1full.pdf"
+      ],
+      "tags": [
+        "convex-optimization"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2007-af7050b9094b",
+      "problem": "Check whether modern optimization improves the bound in: On a geometric approach to the segment sum problem and its generalization.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "On a geometric approach to the segment sum problem and its generalization.",
+        "authors": "Asish Mukhopadhyay and Eugene Greene.",
+        "url": "https://cccg.ca/proceedings/2007/12a1.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2007/12a1.pdf",
+        "https://cccg.ca/proceedings/2007/12a1full.pdf"
+      ],
+      "tags": [
+        "parametric-search"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    },
+    {
+      "recordId": "lit:cccg-optimization-survey:2007-36c61a36923e",
+      "problem": "Check whether modern optimization improves the bound in: Fast computation of smallest enclosing circle with center on a query line segment.",
+      "contentUpdatedAt": "2026-11-06T16:37:06Z",
+      "comments": [],
+      "status": "candidate_unreviewed",
+      "source": {
+        "title": "Fast computation of smallest enclosing circle with center on a query line segment.",
+        "authors": "Arindam Karmakar, Sasanka Roy, and Sandip Das.",
+        "url": "https://cccg.ca/proceedings/2007/12a3.pdf"
+      },
+      "sourceVersions": [
+        "https://cccg.ca/proceedings/2007/12a3.pdf"
+      ],
+      "tags": [
+        "linear-programming"
+      ],
+      "verificationNotes": "Automatic keyword lead; theorem applicability and novelty not checked."
+    }
+  ],
+  "problemCount": 20
+}

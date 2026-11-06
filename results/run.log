@@ -1,0 +1,240 @@
+[1/217] no_keyword_hit: A practical approach to approximating diameter of point-set in low dimensions.
+[2/217] no_keyword_hit: Drawing planar bipartite graphs with small area.
+[3/217] no_keyword_hit: The min-# problem, a hybrid error criterion for near linear time performance.
+[4/217] no_keyword_hit: Proximity problems on line segments spanned by points.
+[5/217] no_keyword_hit: Lower bounds for expected-case planar point location.
+[6/217] no_keyword_hit: Morphing polyhedra preserving face normals: A counterexample.
+[7/217] no_keyword_hit: Closest segments.
+[8/217] no_keyword_hit: Output-sensitive algorithms for enumerating and counting simplices containing a given point in the plane.
+[9/217] no_keyword_hit: Space-efficient algorithms for klee's measure problem.
+[10/217] no_keyword_hit: Staying in the middle: Exact and approximate medians in r1 and r2 for moving points.
+[11/217] no_keyword_hit: Designing modern linkages to trace bezier curves.
+[12/217] candidate_unreviewed: Solving online feasibility problem in constant amortized time per update.
+[13/217] no_keyword_hit: Minimum-cost load-balancing partitions.
+[14/217] no_keyword_hit: Density or discrepancy: A vlsi designer's dilemma in hot spot analysis.
+[15/217] no_keyword_hit: On the pagenumber of bipartite orders.
+[16/217] no_keyword_hit: Reverse facility location problems.
+[17/217] no_keyword_hit: Minimizing the total absolute gaussian curvature in a terrain is hard.
+[18/217] no_keyword_hit: Flow complex: General structure and algorithm.
+[19/217] no_keyword_hit: Large -d simplices in the -dimensional cube.
+[20/217] no_keyword_hit: Computational geometry on optical multi-trees (omult) computer system.
+[21/217] no_keyword_hit: Feasibility of the exact geometric computation paradigm for largest empty anchored cylinder computation in the plane.
+[22/217] no_keyword_hit: Efficient algorithms for range queries in protein sequence analysis.
+[23/217] no_keyword_hit: A new approach for boundary recognition in geometric sensor networks.
+[24/217] no_keyword_hit: Dynamic well-separated pair decomposition made easy.
+[25/217] no_keyword_hit: The projection median of a set of points in .
+[26/217] no_keyword_hit: Approximating radio maps.
+[27/217] no_keyword_hit: Unfolding manhattan towers.
+[28/217] no_keyword_hit: Position-based routing on 3-d geometric graphs in mobile ad hoc networks.
+[29/217] no_keyword_hit: Testing shortcuts to maintain simplicity in subdivision simplification.
+[30/217] no_keyword_hit: Experiments on area compaction algorithms for orthogonal drawings.
+[31/217] no_keyword_hit: Finding a triangular mesh with a constant number of different edge lengths.
+[32/217] no_keyword_hit: A fast algorithm for point labeling problem.
+[33/217] no_keyword_hit: Optimal convex partitions of point sets with few inner points.
+[34/217] candidate_unreviewed: Computing faces up to k dimensions of a minkowski sum of polytopes.
+[35/217] no_keyword_hit: Dynamic updates of succinct triangulations.
+[36/217] no_keyword_hit: The translation-scale-rotation diagram for point-containing placements of a convex polygon.
+[37/217] no_keyword_hit: Pricing of geometric transportation networks.
+[38/217] no_keyword_hit: Complexity of octagonal and rectangular cartograms.
+[39/217] no_keyword_hit: Searching for the center of an ellipse.
+[40/217] no_keyword_hit: Matching edges and faces in polygonal partitions.
+[41/217] no_keyword_hit: Maximum independent set for intervals by divide-prune-and-conquer.
+[42/217] no_keyword_hit: Approximate orthogonal range search using patricia tries.
+[43/217] no_keyword_hit: Computing bitangents for ellipses.
+[44/217] no_keyword_hit: Region counting distances and region counting circles.
+[45/217] no_keyword_hit: Cross-stitching using little thread.
+[46/217] no_keyword_hit: An experimental assessment of the 2d visibility complex.
+[47/217] candidate_unreviewed: Bernstein based arithmetic featuring de casteljau.
+[48/217] no_keyword_hit: Nearest point query on 184m points in e3 with a uniform grid.
+[49/217] no_keyword_hit: The complexity of domino tiling.
+[50/217] no_keyword_hit: Area-proportional drawings of intersecting families of simple closed curves.
+[51/217] no_keyword_hit: Translating a star over a point set.
+[52/217] no_keyword_hit: A vertex-face assignment for plane graphs.
+[53/217] no_keyword_hit: Computing the boundary of a class of labeled-leaf bsp solids.
+[54/217] no_keyword_hit: Maintaining visibility information of planar point sets with a moving viewpoint.
+[55/217] candidate_unreviewed: Faster approximation algorithms for scheduling tasks with a choice of start times.
+[56/217] no_keyword_hit: Compactly encoding and decoding the connectivity of a plane graph in linear time.
+[57/217] no_keyword_hit: Approximating the piercing number for unit-height rectangles.
+[58/217] no_keyword_hit: Approximation algorithms for maximum cliques in 3d unit-disk graphs.
+[59/217] no_keyword_hit: New results on pseudo-triangulations with low vertex degree.
+[60/217] fetch_or_extraction_failed: An algorithm for the rectilinear minimum link-distance problem.
+[61/217] no_keyword_hit: k-link rectilinear shortest paths among rectilinear obstacles in the plane.
+[62/217] no_keyword_hit: Finding and maintaining rigid components.
+[63/217] candidate_unreviewed: Collection depot location problem in the plane.
+[64/217] no_keyword_hit: Cutting out polygons.
+[65/217] no_keyword_hit: Small weak epsilon nets.
+[66/217] no_keyword_hit: Farthest neighbor voronoi diagram in the presence of rectangular obstacles.
+[67/217] fetch_or_extraction_failed: Observations and computations in sylvester-gallai theory.
+[68/217] candidate_unreviewed: Touring convex bodies - a conic programming solution.
+[69/217] no_keyword_hit: Dynamic ham-sandwich cuts of convex polygons in the plane.
+[70/217] no_keyword_hit: Anisotropic diagrams: Labelle shewchuk approach revisited.
+[71/217] no_keyword_hit: Computing rigid components of pseudo-triangulation mechanisms in linear time.
+[72/217] no_keyword_hit: Boundary refinement in delaunay mesh generation using arbitrarily ordered vertex insertion.
+[73/217] no_keyword_hit: Computing the widest empty boomerang.
+[74/217] no_keyword_hit: On the computation and chromatic number of colored domino tilings.
+[75/217] no_keyword_hit: The distance geometry of deep rhythms and scales.
+[76/217] no_keyword_hit: Paul Erdos memorial lecture (linkage folding: From erdos to proteins).
+[77/217] candidate_unreviewed: Shortest descending paths through given faces.
+[78/217] no_keyword_hit: Realization of degree 10 minimum spanning trees in 3-space.
+[79/217] no_keyword_hit: Predicates for line transversals in 3d.
+[80/217] no_keyword_hit: Small weak epsilon-nets in three dimensions.
+[81/217] fetch_or_extraction_failed: Two-guard art gallery problem.
+[82/217] no_keyword_hit: An optimal solution to room search problem.
+[83/217] no_keyword_hit: On computing shortest external watchman routes for convex polygons.
+[84/217] no_keyword_hit: Hamiltonian cycles in triangular grids.
+[85/217] candidate_unreviewed: Tight bounds for point recolouring.
+[86/217] no_keyword_hit: 2d triangulation representation using stable catalogs.
+[87/217] no_keyword_hit: The complexity of a pop-up book.
+[88/217] no_keyword_hit: Open problems (open problems from cccg 2005).
+[89/217] no_keyword_hit: Polygon reconstruction from line cross-sections.
+[90/217] no_keyword_hit: Computing the tool path of an externally monotone polygon in linear time.
+[91/217] no_keyword_hit: Optimal polygon placement.
+[92/217] no_keyword_hit: On the maximum span of fixed-angle chains.
+[93/217] no_keyword_hit: Local overlaps in special unfoldings of convex polyhedra.
+[94/217] no_keyword_hit: Spanning trees across axis-parallel segments.
+[95/217] no_keyword_hit: Rotationally monotone polygons.
+[96/217] no_keyword_hit: Polygons flip finitely: Flaws and a fix.
+[97/217] no_keyword_hit: Characterization of polygons searchable by a boundary 1-searcher.
+[98/217] no_keyword_hit: A study of conway's thrackle conjecture.
+[99/217] no_keyword_hit: Routing with guaranteed delivery on virtual coordinates.
+[100/217] no_keyword_hit: Geometric separator for -dimensional ball graphs.
+[101/217] no_keyword_hit: Invited lecture (on approximate range searching - or - get in shape; round is a good choice).
+[102/217] candidate_unreviewed: On the smallest enclosing information disk.
+[103/217] no_keyword_hit: Removing outliers to minimize area and perimeter.
+[104/217] candidate_unreviewed: A simple streaming algorithm for minimum enclosing balls.
+[105/217] no_keyword_hit: On bipartite matching under the rms distance.
+[106/217] no_keyword_hit: The pkd-tree for orthogonal -dimensional range search.
+[107/217] no_keyword_hit: Range-aggregate proximity detection for design rule checking in vlsi layouts.
+[108/217] no_keyword_hit: Curves in the sand: Algorithmic drawing.
+[109/217] no_keyword_hit: K-nearest neighbor search using the pyramid technique.
+[110/217] fetch_or_extraction_failed: A linear space data structure for orthogonal range reporting and emptiness queries.
+[111/217] no_keyword_hit: Invited lecture (predicting the flexibility and rigidity of proteins: Geometry, combinatorics, conjectures, and algorithms).
+[112/217] no_keyword_hit: Computational euclid.
+[113/217] no_keyword_hit: Another paradigm for geometric constraints solving.
+[114/217] no_keyword_hit: Partitioning a regular -gon into convex congruent pieces is impossible, for sufficiently large .
+[115/217] no_keyword_hit: Computing depth contours with graphics hardware.
+[116/217] no_keyword_hit: Minimizing the number of arcs linking a permutation of points in the plane.
+[117/217] no_keyword_hit: An algorithm for the all-farthest-segments problem for a planar set of points.
+[118/217] candidate_unreviewed: An improved approximation factor for the unit disk covering problem.
+[119/217] no_keyword_hit: Experimental comparison of the cost of approximate and exact convex hull computation in the plane.
+[120/217] no_keyword_hit: (approximate) conic nearest neighbors and the induced voronoi diagram.
+[121/217] no_keyword_hit: On planar path transformation.
+[122/217] no_keyword_hit: Bounded-curvature path normalization.
+[123/217] no_keyword_hit: Morphing planar graph drawings.
+[124/217] no_keyword_hit: Note on the pair-crossing number and the odd-crossing number.
+[125/217] no_keyword_hit: The harmony of spheres.
+[126/217] no_keyword_hit: Capturing crossings: Convex hulls of segment and plane intersections.
+[127/217] no_keyword_hit: Disjoint segments have convex partitions with 2-edge connected dual graphs.
+[128/217] no_keyword_hit: Disjoint segments have convex partitions with 2-edge connected dual graphs.
+[129/217] no_keyword_hit: Finding segments and triangles spanned by points in r.
+[130/217] no_keyword_hit: On the fewest nets problem for convex polyhedra.
+[131/217] candidate_unreviewed: Contraction and expansion of convex sets.
+[132/217] candidate_unreviewed: Contraction and expansion of convex sets.
+[133/217] no_keyword_hit: Improved upper bounds on the reflexivity of point sets.
+[134/217] no_keyword_hit: Improved upper bounds on the reflexivity of point sets.
+[135/217] no_keyword_hit: Computing a planar widest empty alpha-siphon in o(n) time.
+[136/217] candidate_unreviewed: Computing a planar widest empty alpha-siphon in o(n) time.
+[137/217] no_keyword_hit: On the number of empty pseudo-triangles in point sets.
+[138/217] no_keyword_hit: Experimental evaluation of structural filtering as a tool for exact and efficient geometric computing.
+[139/217] no_keyword_hit: Experimental evaluation of structural filtering as a tool for exact and efficient geometric computing.
+[140/217] no_keyword_hit: On the design and performance of reliable geometric predicates using error-free transformations and exact sign of sum algorithms.
+[141/217] no_keyword_hit: On the design and performance of reliable geometric predicates using error-free transformations and exact sign of sum algorithms.
+[142/217] no_keyword_hit: Optimal point set partitioning using rigid motion star placement.
+[143/217] candidate_unreviewed: Fast additive constant approximation algorithms for the safe deposit boxes problem with two and three currencies.
+[144/217] candidate_unreviewed: Fast additive constant approximation algorithms for the safe deposit boxes problem with two and three currencies.
+[145/217] no_keyword_hit: An improved bound for the affine sylvester problem.
+[146/217] no_keyword_hit: The ordinary line problem revisited.
+[147/217] no_keyword_hit: Reconstructing submanifolds of euclidean space.
+[148/217] no_keyword_hit: On unfolding trees and polygons on various lattices.
+[149/217] no_keyword_hit: On unfolding trees and polygons on various lattices.
+[150/217] no_keyword_hit: Spiralling and folding: The topological view.
+[151/217] no_keyword_hit: Unfolding polyhedra via cut-tree truncation.
+[152/217] no_keyword_hit: Unfolding polyhedra via cut-tree truncation.
+[153/217] no_keyword_hit: Minimum-sum dipolar spanning tree for points in r.
+[154/217] no_keyword_hit: Hamilton circuits in hexagonal grid graphs.
+[155/217] no_keyword_hit: Realizations of hexagonal graph representations.
+[156/217] no_keyword_hit: Conflict-free coloring of points on a line with respect to a set of intervals.
+[157/217] no_keyword_hit: Weak conflict-free colorings of point sets and simple regions.
+[158/217] no_keyword_hit: A lower bound on the area of a 3-coloured disc packing.
+[159/217] no_keyword_hit: A lower bound on the area of a 3-coloured disc packing.
+[160/217] no_keyword_hit: Medial axis approximation of planar shapes from union of balls: A simpler and more robust algorithm.
+[161/217] no_keyword_hit: Medial axis approximation of planar shapes from union of balls: A simpler and more robust algorithm.
+[162/217] no_keyword_hit: Simplification of scalar data via monotone-light factorizations.
+[163/217] no_keyword_hit: The slider-pinning problem.
+[164/217] no_keyword_hit: Approximating k-hop minimum spanning trees in euclidean metrics.
+[165/217] no_keyword_hit: Approximating k-hop minimum spanning trees in euclidean metrics.
+[166/217] no_keyword_hit: Terminal steiner tree with bounded edge length.
+[167/217] no_keyword_hit: Terminal steiner tree with bounded edge length.
+[168/217] no_keyword_hit: Image compression terrain simplification.
+[169/217] no_keyword_hit: Image compression terrain simplification.
+[170/217] no_keyword_hit: Distance preserving terrain simplification - an experimental study.
+[171/217] no_keyword_hit: Distance preserving terrain simplification - an experimental study.
+[172/217] no_keyword_hit: Terrain representation using right-triangulated irregular networks.
+[173/217] no_keyword_hit: Vertex pops and popturns.
+[174/217] no_keyword_hit: On rolling cube puzzles.
+[175/217] no_keyword_hit: On rolling cube puzzles.
+[176/217] no_keyword_hit: Efficient snap rounding with integer arithmetic.
+[177/217] no_keyword_hit: Efficient snap rounding with integer arithmetic.
+[178/217] no_keyword_hit: Extending the power of snap rounding variants.
+[179/217] no_keyword_hit: Cache-oblivious output-sensitive two-dimensional convex hull.
+[180/217] candidate_unreviewed: Efficient kinetic data structures for maxcut.
+[181/217] no_keyword_hit: Towards a definition of higher order constrained delaunay triangulations.
+[182/217] no_keyword_hit: Vector weighted anisotropic voronoi diagrams and delaunay traingulations.
+[183/217] no_keyword_hit: Covering points by isothetic unit squares.
+[184/217] candidate_unreviewed: A disk-covering problem with application in optical interferometry.
+[185/217] candidate_unreviewed: A disk-covering problem with application in optical interferometry.
+[186/217] candidate_unreviewed: Approximations of geodesic distances for incomplete triangular manifolds.
+[187/217] candidate_unreviewed: Approximations of geodesic distances for incomplete triangular manifolds.
+[188/217] no_keyword_hit: Linear-space algorithms for distance preserving embedding.
+[189/217] no_keyword_hit: Approximate shortest descent path on a terrain.
+[190/217] candidate_unreviewed: Approximate shortest descent path on a terrain.
+[191/217] no_keyword_hit: A note on drawing direction-constrained paths in 3d.
+[192/217] no_keyword_hit: Optimistic and pessimistic shortest paths on uncertain terrains.
+[193/217] no_keyword_hit: Triangulations loosing bundles and weight.
+[194/217] no_keyword_hit: Triangulations loosing bundles and weight.
+[195/217] no_keyword_hit: Computing acute and non-obtuse triangulations.
+[196/217] no_keyword_hit: On (pointed) minimum weight pseudo-triangulations.
+[197/217] no_keyword_hit: Largest subsets of triangles in a triangulation.
+[198/217] no_keyword_hit: Restricted edge contractions in triangulations of the sphere with boundary.
+[199/217] no_keyword_hit: Improved layouts of the multigrid network.
+[200/217] no_keyword_hit: Straight-line drawings of outerplanar graphs in o(dn log n) area.
+[201/217] no_keyword_hit: Straight-line drawings of outerplanar graphs in o(dn log n) area.
+[202/217] no_keyword_hit: On bus graph realizability.
+[203/217] no_keyword_hit: Homothetic triangle contact representations of planar graphs.
+[204/217] no_keyword_hit: Homothetic triangle contact representations of planar graphs.
+[205/217] no_keyword_hit: Pointed drawings of planar graphs.
+[206/217] no_keyword_hit: Generalized watchman route problem with discrete view cost.
+[207/217] no_keyword_hit: Generalized watchman route problem with discrete view cost.
+[208/217] no_keyword_hit: Optimal schedules for 2-guard room search.
+[209/217] no_keyword_hit: Optimal schedules for 2-guard room search.
+[210/217] no_keyword_hit: Efficient visibility maintenance of a moving segment observer inside a simple polygon.
+[211/217] no_keyword_hit: Approximation algorithms for the minimum-length corridor and related problems.
+[212/217] no_keyword_hit: A general and efficient representation for multiresolution meshes: Application to quad/triangle subdivision.
+[213/217] no_keyword_hit: Practical c reparametrization of piecewise rational bézier curves.
+[214/217] candidate_unreviewed: On a geometric approach to the segment sum problem and its generalization.
+[215/217] candidate_unreviewed: On a geometric approach to the segment sum problem and its generalization.
+[216/217] no_keyword_hit: Finding intersections of bichromatic segments defined by points.
+[217/217] candidate_unreviewed: Fast computation of smallest enclosing circle with center on a query line segment.
+{
+  "started_at": "2026-11-06T16:37:06Z",
+  "completed_at": "2026-11-06T16:37:06Z",
+  "years": [
+    2005,
+    2006,
+    2007
+  ],
+  "source": "https://cccg.ca/",
+  "robots": "HTTP 404: no robots.txt rules supplied",
+  "delay_seconds": 1.0,
+  "documents_discovered": 217,
+  "documents_attempted": 217,
+  "documents_extracted": 213,
+  "candidate_documents": 25,
+  "bibliographic_groups": 191,
+  "candidate_groups": 20,
+  "network_requests": 1,
+  "cache_hits": 221,
+  "truncated": false,
+  "index_errors": [],
+  "scope_note": "Keyword triage only. No updated bound is certified automatically."
+}
